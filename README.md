@@ -40,11 +40,14 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> <img class="emoji" alt="udemy" height="20" width="20" src="Udemy.png" /> My Latest Udemy Courses</h3>
-- [Learn Creational Design Patterns in Java](https://www.udemy.com/course/creationalpatternsinjava/?referralCode=2924BBD769436B735379)
-- [Learning Spring with Spring Boot](https://www.udemy.com/course/learning-spring-with-spring-boot/?referralCode=96B9ADDB50D61F864768)
+<h3> <img alt="udemy" height="20" width="20" src="Udemy.png" /> My Latest Udemy Courses: </h3>
+
+- [Learn Creational Design Patterns in Java][learnCreational]
+
 
 
 ---
 
 [linkedin]: https://www.linkedin.com/in/samarth-narula/
+
+[learnCreational]: https://www.udemy.com/course/creationalpatternsinjava/?referralCode=2924BBD769436B735379
