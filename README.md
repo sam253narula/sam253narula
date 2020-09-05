@@ -6,8 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators 
 - 🤔 2020 Goals: Contribute more to Open Source projects
-- 💬 Ask me about ...
-- ⚡ Fun fact: I love to draw and play guitar ...
+- ⚡ Fun fact: I love to exercise and play guitar ...
 
 ### Connect with me:
 [<img align="left" alt="Samarth Narula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
