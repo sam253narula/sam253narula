@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img class="emoji" alt="tv" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png"> My Latest Udemy Courses
+<img class="emoji" alt="udemy" height="20" width="20" src="Udemy.png"> My Latest Udemy Courses
 - [Learn Creational Design Patterns in Java](https://www.udemy.com/course/creationalpatternsinjava/?referralCode=2924BBD769436B735379)
 - [Learning Spring with Spring Boot](https://www.udemy.com/course/learning-spring-with-spring-boot/?referralCode=96B9ADDB50D61F864768)
 
