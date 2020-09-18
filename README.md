@@ -1,4 +1,4 @@
-### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Udemy Publisher | TutorialsPoint publisher | Solution Architect | Microservice Architect  👋
+### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Udemy Publisher | TutorialsPoint Publisher | Solution Architect | Microservice Architect  👋
 
 Here are some ideas to get you started:
 
