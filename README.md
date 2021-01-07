@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- Udemy:END -->
 
 <!-- Coursera:START -->
-<h3> <img alt="coursera" height="50" width="50" src="Coursera.svg" /> My Latest Coursera Courses: </h3>
+<h3> <img alt="coursera" height="30" width="50" src="Coursera.svg" /> My Latest Coursera Courses: </h3>
 - [Microservices with Spring Boot][microservicesWithSpringBoot]
 
 <!-- Coursera:END -->
