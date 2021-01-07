@@ -43,10 +43,18 @@ Here are some ideas to get you started:
 - [Learning Spring with Spring Boot][learningSpringBoot]
 
 <!-- Udemy:END -->
+
+<!-- Coursera:START -->
+<h3> <img alt="coursera" height="20" width="20" src="Coursera.png" /> My Latest Coursera Courses: </h3>
+- [Microservices with Spring Boot][microservicesWithSpringBoot]
+
+<!-- Coursera:END -->
 ---
 <!-- Variables:START -->
 [linkedin]: https://www.linkedin.com/in/samarth-narula/
 [learnCreational]: https://www.udemy.com/course/creationalpatternsinjava/?referralCode=2924BBD769436B735379
 [learningSpringBoot]: https://www.udemy.com/course/learning-spring-with-spring-boot/?referralCode=96B9ADDB50D61F864768
+[microservicesWithSpringBoot]: https://www.coursera.org/learn/microservices-with-spring-boot/home/welcome
+
 
 <!-- Variables:END -->
