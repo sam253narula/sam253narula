@@ -1,4 +1,4 @@
-### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Coursera Publisher | Udemy Publisher | TutorialsPoint Publisher | Solution Architect | Microservice Architect  👋
+### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Coursera Publisher | Udemy Publisher | TutorialsPoint Publisher | Solution Architect | Microservice Architect | In Collaboration with Great Learning  👋
 
 Here are some ideas to get you started:
 
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <h3> <img alt="coursera" height="10" width="60" src="Coursera.svg" /> My Latest Coursera Courses: </h3>
 
 - [Microservices with Spring Boot][microservicesWithSpringBoot]
+- [Spring Boot with Embedded Database][springBootWithEmbeddedDatabase]
 
 <!-- Coursera:END -->
 ---
@@ -56,6 +57,7 @@ Here are some ideas to get you started:
 [learnCreational]: https://www.udemy.com/course/creationalpatternsinjava/?referralCode=2924BBD769436B735379
 [learningSpringBoot]: https://www.udemy.com/course/learning-spring-with-spring-boot/?referralCode=96B9ADDB50D61F864768
 [microservicesWithSpringBoot]: https://www.coursera.org/learn/microservices-with-spring-boot/home/welcome
+[springBootWithEmbeddedDatabase]:https://www.coursera.org/projects/spring-boot-embedded-db
 
 
 <!-- Variables:END -->
