@@ -1,4 +1,4 @@
-### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Coursera Publisher | Udemy Publisher | TutorialsPoint Publisher | Solution Architect | Microservice Architect | In Collaboration with Great Learning  👋
+### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Coursera Publisher | Udemy Publisher | TutorialsPoint Publisher | Solution Architect | Microservice Architect | In Collaboration with Great Learning, Techmentry | ex-Accenture, ex-Oracle 👋
 
 Here are some ideas to get you started:
 
@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 
 - [Microservices with Spring Boot][microservicesWithSpringBoot]
 - [Spring Boot with Embedded Database][springBootWithEmbeddedDatabase]
+- [RESTful Microservices Performance Monitoring with Actuators][restfulMicroservicesPerformanceMonitoringwithActuators]
+- [Logging with Spring Boot AOP][loggingWithSpringBootAOP]
+- [Audit System with Spring Boot AOP][auditSystemWithSpringBootAOP]
 
 <!-- Coursera:END -->
 ---
@@ -58,6 +61,10 @@ Here are some ideas to get you started:
 [learningSpringBoot]: https://www.udemy.com/course/learning-spring-with-spring-boot/?referralCode=96B9ADDB50D61F864768
 [microservicesWithSpringBoot]: https://www.coursera.org/learn/microservices-with-spring-boot/home/welcome
 [springBootWithEmbeddedDatabase]:https://www.coursera.org/projects/spring-boot-embedded-db
+[restfulMicroservicesPerformanceMonitoringwithActuators]:https://www.coursera.org/projects/microservice-performance-monitoring-with-actuators
+[loggingWithSpringBootAOP]:https://www.coursera.org/projects/logging-with-spring-boot-aop
+[auditSystemWithSpringBootAOP]:https://www.coursera.org/projects/audit-system-with-spring-boot-aop
+
 
 
 <!-- Variables:END -->
