@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 
 <!-- Coursera:START -->
 <h3> <img alt="coursera" height="10" width="60" src="Coursera.svg" /> My Latest Coursera Courses: </h3>
-
-- [Microservices with Spring Boot][microservicesWithSpringBoot]
 - [Spring Boot with Embedded Database][springBootWithEmbeddedDatabase]
 - [RESTful Microservices Performance Monitoring with Actuators][restfulMicroservicesPerformanceMonitoringwithActuators]
 - [Logging with Spring Boot AOP][loggingWithSpringBootAOP]
@@ -59,7 +57,6 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/samarth-narula/
 [learnCreational]: https://www.udemy.com/course/creationalpatternsinjava/?referralCode=2924BBD769436B735379
 [learningSpringBoot]: https://www.udemy.com/course/learning-spring-with-spring-boot/?referralCode=96B9ADDB50D61F864768
-[microservicesWithSpringBoot]: https://www.coursera.org/learn/microservices-with-spring-boot/home/welcome
 [springBootWithEmbeddedDatabase]:https://www.coursera.org/projects/spring-boot-embedded-db
 [restfulMicroservicesPerformanceMonitoringwithActuators]:https://www.coursera.org/projects/microservice-performance-monitoring-with-actuators
 [loggingWithSpringBootAOP]:https://www.coursera.org/projects/logging-with-spring-boot-aop
