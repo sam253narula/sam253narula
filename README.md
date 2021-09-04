@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 <!-- Coursera:START -->
 <h3> <img alt="coursera" height="10" width="60" src="Coursera.svg" /> My Latest Coursera Courses: </h3>
+
 - [Spring Boot with Embedded Database][springBootWithEmbeddedDatabase]
 - [RESTful Microservices Performance Monitoring with Actuators][restfulMicroservicesPerformanceMonitoringwithActuators]
 - [Logging with Spring Boot AOP][loggingWithSpringBootAOP]
