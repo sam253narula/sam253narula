@@ -1,6 +1,6 @@
 ### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Coursera Publisher | Udemy Publisher | TutorialsPoint Publisher | Solution Architect | Microservice Architect | In Collaboration with Great Learning, MciroStreams, Techmentry | ex-Oracle, ex-Accenture, ex-Goldman Sachs, ex-MasterCard, ex-State Street Bank 👋
 
-Here are some ideas to get you started:
+Things that I do on daily basis
 
 - 🔭 I’m currently working on AWS and JAVA, Scala, Spark
 - 🌱 I’m currently learning everything
