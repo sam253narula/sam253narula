@@ -62,7 +62,11 @@ Things that I do on daily basis
 [restfulMicroservicesPerformanceMonitoringwithActuators]:https://www.coursera.org/projects/microservice-performance-monitoring-with-actuators
 [loggingWithSpringBootAOP]:https://www.coursera.org/projects/logging-with-spring-boot-aop
 [auditSystemWithSpringBootAOP]:https://www.coursera.org/projects/audit-system-with-spring-boot-aop
-
-
-
 <!-- Variables:END -->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-swart-iota.vercel.app/api?username=sam253narula&show_icons=true&hide_border=true" />
+
+</details>
