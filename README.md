@@ -73,5 +73,6 @@ Things that I do on daily basis
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-ten-pi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/553jatnu7eo6wmsg61bwgqkxj)
+[<img src="https://novatorem-ten-pi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+(https://open.spotify.com/user/553jatnu7eo6wmsg61bwgqkxj)
 
