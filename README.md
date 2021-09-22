@@ -70,3 +70,8 @@ Things that I do on daily basis
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-swart-iota.vercel.app/api?username=sam253narula&show_icons=true&hide_border=true" />
 
 </details>
+
+### Spotify Playing 🎧
+
+[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+
