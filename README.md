@@ -1,4 +1,4 @@
-### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Udemy Publisher with more than 22k Enrollments from all around the Globe | Coursera Publisher | TutorialsPoint Publisher | Solution Architect | Microservice Architect | In Collaboration with Great Learning, MciroStreams, Techmentry | ex-Oracle, ex-Accenture(Worked for Goldman Sachs & MasterCard Client)  👋
+### Hi there, I'm Samarth Narula aka Tech Architect | Cloud Architect | Full Stack Developer | Udemy Publisher with more than 22k Enrollments from all around the Globe | Coursera Publisher | TutorialsPoint Publisher | Edunix Publisher | Solution Architect | Microservice Architect | In Collaboration with Great Learning, MciroStreams, Techmentry | ex-Oracle, ex-Accenture(Worked for Goldman Sachs & MasterCard Client)  👋
 
 Things that I do on daily basis
 
