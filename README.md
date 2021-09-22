@@ -64,14 +64,23 @@ Things that I do on daily basis
 [auditSystemWithSpringBootAOP]:https://www.coursera.org/projects/audit-system-with-spring-boot-aop
 <!-- Variables:END -->
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-swart-iota.vercel.app/api?username=sam253narula&show_icons=true&hide_border=true" />
 
-</details>
+  
+  
+</details> -->
 
-### Spotify Playing 🎧
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-swart-iota.vercel.app/api/top-langs/?username=sam253narula&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-swart-iota.vercel.app/api?username=sam253narula&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
 
-[![Spotify](https://novatorem-ten-pi.vercel.app/api/spotify)](https://open.spotify.com/user/553jatnu7eo6wmsg61bwgqkxj)
+
 
