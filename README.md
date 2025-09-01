@@ -5,7 +5,7 @@ Things that I do on daily basis
 - 🔭 I’m currently working on AWS,GCP and AI, JAVA, Python,Terraform,Spark, Gitlab CICD, Github Workflows, Scripting, Spring Boot and many more things. 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators 
-- 🤔 2025 Goals: Create new Open Source projects to help the world
+- 🤔 2025 Goals: Create new Open Source projects to give back to the world
 - ⚡ Fun fact: I love to exercise and play guitar ...
 
 ### Connect with me:
